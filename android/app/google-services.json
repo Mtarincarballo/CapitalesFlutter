@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765619324665",
+    "project_id": "quizzcapitl",
+    "storage_bucket": "quizzcapitl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765619324665:android:4144c67ac088de298dc428",
+        "android_client_info": {
+          "package_name": "com.example.capitalesDelMundo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765619324665-9eg49uhtrt1hemmt2oseh9l0mc04avui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMpe_HgVW23ARmAIm9Yj4Vg86rmmPMyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765619324665-9eg49uhtrt1hemmt2oseh9l0mc04avui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
